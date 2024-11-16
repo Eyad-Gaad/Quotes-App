@@ -1,0 +1,22 @@
+:root{
+    /* Fonts Variables */
+    --title : "Oswald", sans-serif;
+    --inter : "Inter", sans-serif;
+    --quote : "Edu AU VIC WA NT Pre", cursive;
+    --lato  :"Lato", sans-serif;
+}
+.titleFonts{
+    font-family: var(--title);
+}
+.interFont{
+    font-family: var(--inter);
+}
+.quoteFont{
+    font-family: var(--quote);
+}
+.latoFont{
+    font-family: var(--lato);
+}
+.title h1{
+    font-size: 2.7em;
+}

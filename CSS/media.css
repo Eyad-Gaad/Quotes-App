@@ -1,0 +1,30 @@
+@media (max-width: 575px) 
+{
+
+}
+@media (min-width: 576px)
+{
+
+}
+
+@media (min-width: 768px)
+{
+    .title h1{
+        font-size: 5em;
+    }
+}
+
+@media (min-width: 992px)
+{
+
+}
+
+@media (min-width: 1200px)
+{
+
+}
+
+@media (min-width: 1400px)
+{
+    
+}
